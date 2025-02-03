@@ -23,15 +23,17 @@
 //   })
 //   .catch((err) => [console.log(err)]);
 
-async function newFunction() {
-  console.log("before");
-  var nerwThis = new Promise((res, rej) => {
-    // setTimeout(() => {
-    res("This is the resolve code 2");
-    // }, 4000);
-  });
-  console.log(await nerwThis);
-  console.log("after");
-}
+// async function newFunction() {
+//   console.log("before");
+//   var nerwThis = new Promise((res, rej) => {
+//     // setTimeout(() => {
+//     res("This is the resolve code 2");
+//     // }, 4000);
+//   });
+//   console.log(await nerwThis);
+//   console.log("after");
+// }
 
-newFunction();
+// newFunction();
+
+console.log("New Line for new Commit");
