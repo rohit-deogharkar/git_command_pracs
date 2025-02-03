@@ -43,4 +43,6 @@ console.log("This is the commit for my new branch");
 
 console.log("This is fourth commit and commiting it to main as well as dev-uat branch")
 
+console.log('Fifth commit :- declaring main branch as upstream in this commit')
+
 console.log("Sixth Commit:- Pushing it to main branch so from there i can pull it to another branch, upstream set to main branch")
